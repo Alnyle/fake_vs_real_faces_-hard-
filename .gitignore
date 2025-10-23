@@ -10,3 +10,6 @@ wheels/
 .venv
 
 data
+data_split
+split_data
+outputs
